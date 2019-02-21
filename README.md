@@ -8,7 +8,7 @@ An introduction to developing deep learning models and using them to recognize i
 ### DNN_scrape_and_finetune_script.py
 Adataptation of the notebook to be run as a script for cloud computing tutorials. Changes correspond to removing Google specific code and saving images instead of interactive plotting.
 
-* To run in aws with a ubuntu-deep-learning images
+* To run in aws with an ubuntu-deep-learning image
 
   ```bash
   source activate tensorflow_p27
