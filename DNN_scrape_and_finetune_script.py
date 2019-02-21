@@ -100,7 +100,7 @@ def plot_training(history, plot_val=False):
   plt.title('Training and validation loss')
   plt.legend()
   plt.savefig('acc_vs_epochs.png')
-  plt.show()
+  #plt.show()
 
 
 
@@ -170,7 +170,8 @@ def main():
   plt.grid('off')
   plt.axis('off')
   plt.title("Ground truth: %s\nprediction: %s" % (files[0], top_3))
-  plt.show()
+  plt.savefig('ground_truth_img0.png')
+  #plt.show()
   # plt.close(f)
 
 
