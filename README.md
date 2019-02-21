@@ -1,4 +1,4 @@
-# DSCoV colab notebooks for deep learning
+# DSCoV materials for deep learning
 
 ## Files
 
