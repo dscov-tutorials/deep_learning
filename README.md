@@ -10,7 +10,7 @@ Adataptation of the notebook to be run as a script for cloud computing tutorials
 
 * To run in aws with a ubuntu-deep-learning images
 
-  ```
+  ```bash
   source activate tensorflow_p27
   pip install google_images_download
   python DNN_scrape_and_finetune_script.py
