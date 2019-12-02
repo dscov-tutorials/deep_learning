@@ -1,0 +1,7 @@
+repo:             deep_learning
+site_name:        "Keras Tutorial"
+authors:      
+  - name: Drew Linsley
+    github_user: drewlinsley
+site_description: "Deep learning with Keras/Tensorflow"
+type:             workshop    # required. choose one of [software, tutorial, workshop, documentation]
